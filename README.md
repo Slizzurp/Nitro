@@ -11,6 +11,11 @@ Nitro.py enhances system **performance, AI workloads, and cybersecurity defenses
 - **Cybersecurity AI Defense Layer** for system protection.
 - **Self-Healing Optimization Payload** for auto-adjusting computing efficiency.
 
+📌 Future Enhancements
+✔ Edge computing integration
+✔ Distributed AI model training
+✔ Automated cybersecurity monitoring
+
 ## 🚀 Installation:
 ### 1️⃣ Install dependencies
 ```bash
@@ -25,8 +30,3 @@ For Bash:
 git add .
 git commit -m "Initial Nitro.py upload"
 git push origin main
-
-📌 Future Enhancements
-✔ Edge computing integration
-✔ Distributed AI model training
-✔ Automated cybersecurity monitoring
